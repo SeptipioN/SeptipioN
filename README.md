@@ -19,16 +19,16 @@
 
 ##   ![Tools](https://github.com/SeptipioN/SeptipioN/blob/main/assets/_pepesaber_.gif) Languages and Tools
 #### Languages:
- ![Python](https://img.shields.io/badge/Python-f5050f?style=for-the-badge&logo=python&logoColor=white) 
- ![MicroPython](https://img.shields.io/badge/MicroPython-f5050f?style=for-the-badge&logo=micropython&logoColor=fff) 
- ![Java](https://img.shields.io/badge/Java-f5050f?style=for-the-badge&logo=coffeescript&logoColor=fff) 
- ![ArduinoC++](https://img.shields.io/badge/Arduino_C++-f5050f?style=for-the-badge&logo=Arduino&logoColor=fff)
+ ![Python](https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=fe428e)
+ ![MicroPython](https://img.shields.io/badge/MicroPython-141321?style=for-the-badge&logo=micropython&logoColor=fe428e) 
+ ![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=coffeescript&logoColor=fe428e) 
+ ![ArduinoC++](https://img.shields.io/badge/Arduino_C++-141321?style=for-the-badge&logo=Arduino&logoColor=fe428e)
 #### Tools:
- ![PyCharm](https://img.shields.io/badge/PyCharm-f5050f?style=for-the-badge&logo=pycharm&logoColor=fff) 
- ![IntellijIDEA](https://img.shields.io/badge/Intellij_IDEA-f5050f?style=for-the-badge&logo=IntellijIDEA&logoColor=fff) 
- ![QtDesigner](https://img.shields.io/badge/Qt_Designer-f5050f?style=for-the-badge&logo=qt&logoColor=fff) 
- ![Blockbench](https://img.shields.io/badge/Blockbench-f5050f?style=for-the-badge&logo=Blockbench&logoColor=fff)
- ![Lunacy](https://img.shields.io/badge/Lunacy-f5050f?style=for-the-badge&logo=Lunacy&logoColor=fff)
+ ![PyCharm](https://img.shields.io/badge/PyCharm-141321?style=for-the-badge&logo=pycharm&logoColor=fe428e) 
+ ![IntellijIDEA](https://img.shields.io/badge/Intellij_IDEA-141321?style=for-the-badge&logo=IntellijIDEA&logoColor=fe428e) 
+ ![QtDesigner](https://img.shields.io/badge/Qt_Designer-141321?style=for-the-badge&logo=qt&logoColor=fe428e) 
+ ![Blockbench](https://img.shields.io/badge/Blockbench-141321?style=for-the-badge&logo=Blockbench&logoColor=fe428e)
+ ![Lunacy](https://img.shields.io/badge/Lunacy-141321?style=for-the-badge&logo=Lunacy&logoColor=fe428e)
 
 #
 
