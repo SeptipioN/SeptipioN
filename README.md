@@ -1,9 +1,23 @@
-Header
+# **Welcome to my GitHub Profile!**
+[]
 
-About me
+## I`m Beginner Software Develop
 
-Languages and Tools
-
+## Languages, Tools and Platforms
+### Languages:
+ ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f50505) 
+ ![MicroPython](https://img.shields.io/badge/MicroPython-0d1117?style=for-the-badge&logo=micropython&logoColor=f50505) 
+ ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=coffeescript&logoColor=f50505) 
+ ![ArduinoC++](https://img.shields.io/badge/Arduino_C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=f50505)
+ ![Kotlin](https://img.shields.io/badge/kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=f50505)
+### Tools
+ ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=f50505) 
+ ![IntellijIDEA](https://img.shields.io/badge/Intellij_IDEA-0d1117?style=for-the-badge&logo=IntellijIDEA&logoColor=f50505) 
+ ![QtDesigner](https://img.shields.io/badge/Qt_Designer-0d1117?style=for-the-badge&logo=qt&logoColor=f50505) 
+ ![AndroidStudio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=AndroidStudio&logoColor=f50505)
+ ![Blockbench](https://img.shields.io/badge/Blockbench-0d1117?style=for-the-badge&logo=Blockbench&logoColor=f50505)
+  ![Lunacy](https://img.shields.io/badge/Lunacy-0d1117?style=for-the-badge&logo=Lunacy&logoColor=f50505)
+  
 Ect...
 
 [![Project "ArcaneTech"](https://github.com/SeptipioN/SeptipioN/blob/main/assets/ArcaneTech.gif)](https://discord.com/invite/EjQa8b97Vz)
