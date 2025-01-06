@@ -3,10 +3,19 @@
 
 # ![Head2](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Pepe%20Simp.png) I`m a beginner Software Developer
 
+- 🔭 I’m currently working on **SafeBOX for ESP32**
+
+- 🌱 I’m currently learning **Java** ![Head2](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Hmmmm.png)
+
+- 🎮 I like to play Minecraft and develop mods for it :D
+
+- 🔮 The next major projects are planned:
+    - [ ] 🌠 **LightSaber on Arduino NANO** - Just for Fun and skills development
+    - [ ] 🤖 **Anatolyy - Discord Bot** - Just for Fun with friends and skills development
+    - [ ] 🟩🟫 **Project:ArcaneTech** - My First Major Tech Modpack for Minecraft
 
 
-
-## Languages, Tools and Platforms
+## Languages, Tools
 ### Languages:
  ![Python](https://img.shields.io/badge/Python-f5050f?style=for-the-badge&logo=python&logoColor=white) 
  ![MicroPython](https://img.shields.io/badge/MicroPython-f5050f?style=for-the-badge&logo=micropython&logoColor=fff) 
