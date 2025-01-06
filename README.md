@@ -34,9 +34,7 @@
 #
 <img align="left" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/_pepesaber_.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=radical" alt="septipion" /></p>
-
-<img align="left" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
-
+<img align="left" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/f_pepe_king.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=radical" alt="septipion" /></p>
 
 #
