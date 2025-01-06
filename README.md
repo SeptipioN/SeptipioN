@@ -1,5 +1,5 @@
-[![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/20240505175314_1.jpg)]
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/20240505175314_1.jpg)
+<h1 align="center">Hey 👋, I'm SeptipioN_</h1>
 
 ## I`m Beginner Software Develop
 
