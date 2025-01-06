@@ -32,8 +32,9 @@
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="septipion" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=radical" alt="septipion" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=radical" alt="rishavchanda" /></p>
 
 #
 
