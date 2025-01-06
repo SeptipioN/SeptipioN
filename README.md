@@ -1,7 +1,7 @@
 ![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/20240505175314_1.jpg)
 <h1 align="center">Hey 👋, I'm SeptipioN_</h1>
-<h2 align="center">I`m beginner Software Developer</h2>
-![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Pepe%20Simp.png)
+
+![Head2](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Pepe%20Simp.png)<h2 align="center">I`m beginner Software Developer</h2>
 
 
 
