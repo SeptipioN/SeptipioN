@@ -1,4 +1,5 @@
 ![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Header.gif)
+
 <h1 align="center">Hey 👋, I'm SeptipioN_</h1>
 
 # ![Head2](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Pepe%20Simp.png) I`m a beginner Software Developer
@@ -48,3 +49,5 @@
 > At the moment, modpack is at the conceptual stage and there is no final version of the development path. As soon as everything is ready, we will publish the project RoadMap on GitHub and ArcaneTech Hub.
 
 <img align="right" alt="ARCT" width="140" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
+
+![SWU](https://github.com/SeptipioN/SeptipioN/blob/main/assets/stand-with-ukraine.png)
