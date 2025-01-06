@@ -17,20 +17,24 @@
     - [ ] 🟩🟫 **Project:ArcaneTech** - My First Major Tech Modpack for Minecraft
 
 
-## Languages, Tools
-### Languages:
+##   ![Tools](https://github.com/SeptipioN/SeptipioN/blob/main/assets/_pepesaber_.gif) Languages and Tools
+#### Languages:
  ![Python](https://img.shields.io/badge/Python-f5050f?style=for-the-badge&logo=python&logoColor=white) 
  ![MicroPython](https://img.shields.io/badge/MicroPython-f5050f?style=for-the-badge&logo=micropython&logoColor=fff) 
  ![Java](https://img.shields.io/badge/Java-f5050f?style=for-the-badge&logo=coffeescript&logoColor=fff) 
  ![ArduinoC++](https://img.shields.io/badge/Arduino_C++-f5050f?style=for-the-badge&logo=Arduino&logoColor=fff)
-### Tools:
+#### Tools:
  ![PyCharm](https://img.shields.io/badge/PyCharm-f5050f?style=for-the-badge&logo=pycharm&logoColor=fff) 
  ![IntellijIDEA](https://img.shields.io/badge/Intellij_IDEA-f5050f?style=for-the-badge&logo=IntellijIDEA&logoColor=fff) 
  ![QtDesigner](https://img.shields.io/badge/Qt_Designer-f5050f?style=for-the-badge&logo=qt&logoColor=fff) 
  ![Blockbench](https://img.shields.io/badge/Blockbench-f5050f?style=for-the-badge&logo=Blockbench&logoColor=fff)
  ![Lunacy](https://img.shields.io/badge/Lunacy-f5050f?style=for-the-badge&logo=Lunacy&logoColor=fff)
 
-### Forge 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="septipion" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=septipion&&theme=tokyonight" alt="septipion" /></p>
+
+#
 
 [![Project "ArcaneTech"](https://github.com/SeptipioN/SeptipioN/blob/main/assets/ArcaneTech.gif)](https://discord.com/invite/EjQa8b97Vz)
 
