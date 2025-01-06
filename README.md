@@ -1,5 +1,4 @@
-![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Header.gif)
-
+![SWU](https://github.com/SeptipioN/SeptipioN/blob/main/assets/stand-with-ukraine.png)
 <h1 align="center">Hey 👋, I'm SeptipioN_</h1>
 
 # ![Head2](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Pepe%20Simp.png) I`m a beginner Software Developer
@@ -50,4 +49,4 @@
 
 #
 
-![SWU](https://github.com/SeptipioN/SeptipioN/blob/main/assets/stand-with-ukraine.png)
+![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Header.gif)
