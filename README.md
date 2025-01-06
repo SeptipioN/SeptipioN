@@ -32,11 +32,12 @@
  ![Lunacy](https://img.shields.io/badge/Lunacy-141321?style=for-the-badge&logo=Lunacy&logoColor=fe428e)
 
 #
+<img align="left" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/_pepesaber_.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=radical" alt="septipion" /></p>
 
 <img align="left" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=radical" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=radical" alt="septipion" /></p>
 
 #
 [![Project "ArcaneTech"](https://github.com/SeptipioN/SeptipioN/blob/main/assets/ArcaneTech.gif)](https://discord.com/invite/EjQa8b97Vz)
