@@ -42,7 +42,7 @@
 
 >[!CAUTION]
 >**ArcaneTech is at an early stage of development and is not available to everyone!** 
->You can learn more about ArcaneTech on the Discord Server ![**ArcaneTech Hub**](https://discord.com/invite/EjQa8b97Vz)
+>You can learn more about ArcaneTech on the Discord Server [**ArcaneTech Hub**](https://discord.com/invite/EjQa8b97Vz)
 # What is Project:ArcaneTech?
 #### ArcaneTech is a hardcore technological modpack for Minecraft that will test your endurance and abilities.
 ![ARCT](https://github.com/SeptipioN/SeptipioN/blob/main/assets/f_pepe_king.gif)
