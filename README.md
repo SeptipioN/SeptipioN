@@ -1,5 +1,5 @@
-# **Welcome to my GitHub Profile!**
-[]
+[![Head](https://github.com/SeptipioN/SeptipioN/blob/main/assets/20240505175314_1.jpg)]
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 
 ## I`m Beginner Software Develop
 
