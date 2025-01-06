@@ -50,4 +50,6 @@
 
 <img align="right" alt="ARCT" width="140" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 
+***
+
 ![SWU](https://github.com/SeptipioN/SeptipioN/blob/main/assets/stand-with-ukraine.png)
