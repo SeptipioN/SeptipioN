@@ -46,7 +46,7 @@
 # What is Project:ArcaneTech?
 > [!IMPORTANT]
 > At the moment, modpack is at the conceptual stage and there is no final version of the development path. As soon as everything is ready, we will publish the project RoadMap on GitHub and ArcaneTech Hub.
-<img align="right" alt="ARCT" width="360" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
+<img align="right" alt="ARCT" width="200" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 
 
 
