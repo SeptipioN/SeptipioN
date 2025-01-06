@@ -44,8 +44,8 @@
 >**ArcaneTech is at an early stage of development and is not available to everyone!** 
 >You can learn more about ArcaneTech on the Discord Server [**ArcaneTech Hub**](https://discord.com/invite/EjQa8b97Vz)
 # What is Project:ArcaneTech?
-> **[!IMPORTANT]**
-> **Key information users need to know to achieve their goal. > At the moment, modpack is at the conceptual stage and there is no final version of the development path. As soon as everything is ready, we will publish the project RoadMap on GitHub and ArcaneTech Hub.**
+> [!IMPORTANT]
+> At the moment, modpack is at the conceptual stage and there is no final version of the development path. As soon as everything is ready, we will publish the project RoadMap on GitHub and ArcaneTech Hub.
 <img align="right" alt="ARCT" width="360" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 
 
