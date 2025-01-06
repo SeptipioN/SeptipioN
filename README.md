@@ -3,7 +3,7 @@
 
 # ![Head2](https://github.com/SeptipioN/SeptipioN/blob/main/assets/Pepe%20Simp.png) I`m a beginner Software Developer
 
-<img align="right" alt="Coding" width="200" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/Hmmmm.png">
+<img align="right" alt="Coding" width="300" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/Hmmmm.png">
 
 - 🔭 I’m currently working on **SafeBOX for ESP32**
 
