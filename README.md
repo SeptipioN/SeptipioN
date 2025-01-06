@@ -34,17 +34,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="septipion" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=septipion&&theme=tokyonight" alt="septipion" /></p>
-
-
-
-
-
-
-
-
 
 #
 
 [![Project "ArcaneTech"](https://github.com/SeptipioN/SeptipioN/blob/main/assets/ArcaneTech.gif)](https://discord.com/invite/EjQa8b97Vz)
+
+
 
