@@ -36,6 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=radical" alt="septipion" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=radical" alt="rishavchanda" /></p>
+<img align="right" alt="ARCT" width="140" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 
 #
 
@@ -47,7 +48,7 @@
 # What is Project:ArcaneTech?
 > [!IMPORTANT]
 > At the moment, modpack is at the conceptual stage and there is no final version of the development path. As soon as everything is ready, we will publish the project RoadMap on GitHub and ArcaneTech Hub.
-<img align="right" alt="ARCT" width="140" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
+
 
 #
 
