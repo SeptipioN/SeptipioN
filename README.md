@@ -49,7 +49,4 @@
 
 <img align="right" alt="ARCT" width="200" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 
-
-
-
-<img align="left" alt="ARCT2" width="400" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/SeptipioN.png">
+<img align="left" alt="ARCT2" width="600" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/SeptipioN.png">
