@@ -14,7 +14,7 @@
 - 🔮 The next major projects are planned:
     - [ ] 🌠 **LightSaber on Arduino NANO** - Just for Fun and skills development
     - [ ] 🤖 **Anatolyy - Discord Bot** - Just for Fun with friends and skills development
-    - [ ] 🟩🟫 **Project:ArcaneTech** - My First Major Tech Modpack for Minecraft
+    - [ ] 🟩🟫 **Project: ArcaneTech** - My First Major Tech Modpack for Minecraft
 
 
 ##   ![Tools](https://github.com/SeptipioN/SeptipioN/blob/main/assets/_pepesaber_.gif) Languages and Tools
@@ -30,13 +30,16 @@
  ![Blockbench](https://img.shields.io/badge/Blockbench-141321?style=for-the-badge&logo=Blockbench&logoColor=fe428e)
  ![Lunacy](https://img.shields.io/badge/Lunacy-141321?style=for-the-badge&logo=Lunacy&logoColor=fe428e)
 
-#
+
+# My Statistics on GitHub
+
 <img align="right" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/f_pepe_king.gif">
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=radical" alt="septipion" /></p>
 <img align="right" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/peepoguns55.PNG">
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=septipion&show_icons=true&locale=en&theme=radical" alt="septipion" /></p>
 
-#
+# Project: ArcaneTech
+
 [![Project "ArcaneTech"](https://github.com/SeptipioN/SeptipioN/blob/main/assets/ArcaneTech.gif)](https://discord.com/invite/EjQa8b97Vz)
 
 >[!CAUTION]
