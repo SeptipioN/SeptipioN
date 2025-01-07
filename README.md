@@ -31,7 +31,7 @@
  ![Lunacy](https://img.shields.io/badge/Lunacy-141321?style=for-the-badge&logo=Lunacy&logoColor=fe428e)
 
 
-# My Statistics on GitHub
+## My Statistics on GitHub
 
 <img align="right" alt="ARCT" width="56" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/f_pepe_king.gif">
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=septipion&show_icons=true&locale=en&layout=compact&theme=radical" alt="septipion" /></p>
