@@ -5,7 +5,7 @@
 
 <img align="right" alt="Hmmmm" width="160" src="https://github.com/SeptipioN/SeptipioN/blob/main/assets/Hmmmm.png">
 
-- 🔭 I’m currently working on **Codename:WuWa-Reborn**
+- 🔭 I’m currently working on **Codename:Reborn**
 
 - 🌱 I’m currently learning **Java** 
 
