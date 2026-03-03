@@ -12,9 +12,10 @@
 - 🎮 I like to play Minecraft and develop mods for it :D
 
 - 🔮 The next major projects are planned:
-    - [ ] 🌠 **LightSaber on Arduino NANO** - Just for Fun and skills development
-    - [X] 🤖 **Anatolyy - Discord Bot** - Just for Fun with friends and skills development
-    - [ ] 🟩🟫 **Project: ArcaneTech** - My First Major Tech Modpack for Minecraft
+    - [ ] 🌠 **LightSaber on Arduino NANO**
+    - [X] 🤖 **Anatolyy - Discord Bot**
+    - [ ] 🟩🟫 **Project: ArcaneTech**
+    - [X] ✈ **Codename: Valkyrie**
 
 
 ##   ![Tools](https://github.com/SeptipioN/SeptipioN/blob/main/assets/_pepesaber_.gif) Languages and Tools
